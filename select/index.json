@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "Don't Call My Name",
+  "base_artist": "Skinshape",
+  "createdAt": "2026-03-28T14:26:39.480680Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Skinshape",
+      "has_synced": true,
+      "path": "select/01_Don't_Call_My_Name_Skinshape.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Skinshape",
+      "has_synced": true,
+      "path": "select/02_Don't_Call_My_Name_Skinshape.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Gary Numan",
+      "has_synced": true,
+      "path": "select/03_Don't_Call_My_Name_Gary_Numan.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Gary Numan",
+      "has_synced": true,
+      "path": "select/04_Don't_Call_My_Name_Gary_Numan.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/05_Don't_Call_My_Name_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Bobby Darin",
+      "has_synced": false,
+      "path": "select/06_Don't_Call_My_Name_Bobby_Darin.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Numan, Gary",
+      "has_synced": false,
+      "path": "select/07_Don't_Call_My_Name_Numan,_Gary.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Raphael Gualazzi",
+      "has_synced": true,
+      "path": "select/08_Don't_Call_My_Name_Raphael_Gualazzi.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don'T Call My Name",
+      "artist": "Gualazzi Raphael",
+      "has_synced": true,
+      "path": "select/09_Don'T_Call_My_Name_Gualazzi_Raphael.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Milly Strange",
+      "has_synced": false,
+      "path": "select/10_Don't_Call_My_Name_Milly_Strange.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Pool",
+      "has_synced": true,
+      "path": "select/11_Don't_Call_My_Name_Pool.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Rome Hero Foxes",
+      "has_synced": true,
+      "path": "select/12_Don't_Call_My_Name_Rome_Hero_Foxes.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "DON'T CALL MY NAME",
+      "artist": "iluvtora",
+      "has_synced": false,
+      "path": "select/13_DON'T_CALL_MY_NAME_iluvtora.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Call My Name",
+      "artist": "Idlework.",
+      "has_synced": true,
+      "path": "select/14_Don't_Call_My_Name_Idlework..lrc"
+    }
+  ]
+}
